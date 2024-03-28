@@ -1,0 +1,33 @@
+Licenses:                              ​
+
+https://creativecommons.org/licenses/by/4.0/               ​
+
+https://creativecommons.org/licenses/by/4.0/legalcode.txt​
+
+https://chooser-beta.creativecommons.org/ ​
+
+Markdown:​
+
+https://www.markdownguide.org/getting-started/​
+
+https://www.markdownguide.org/basic-syntax/​
+
+GitHub Example:​
+
+https://github.com/open-phytoliths/FAIR-phytoliths ​
+
+Getting Started with GitHub:​
+
+Getting Started With GitHub — The Turing Way (the-turing-way.netlify.app)​
+
+Get a DOI with Zenodo:​
+
+Referencing and citing content - GitHub Docs​
+
+GitHub Desktop:​
+
+GitHub Desktop | Simple collaboration from your desktop​
+
+​
+
+​
